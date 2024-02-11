@@ -16,5 +16,6 @@ Este script usa funções da framework Creative, será necessário que possua em
 
 ### Como usar:
 Na linha os.execute("start C:/Users/Administrator/Desktop/Mansory/server.bat") -- mude o endereço do executável para o seu.
-Ex: Basta colar no /player/server-side/server.lua na creative.
+
+Este condigo é executado via server side ou seja basta colar no /player/server-side/server.lua na creative.
 duvidas? me chame no discord https://discord.gg/bKvwhwRRnq
