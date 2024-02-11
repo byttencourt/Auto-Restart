@@ -15,6 +15,6 @@ Este script usa funções da framework Creative, será necessário que possua em
 - Possibilidade de Escolher quantas vezes e os horários que prefere o restart.
 
 ### Como usar:
-
+Na linha os.execute("start C:/Users/Administrator/Desktop/Mansory/server.bat") -- mude o endereço do executável para o seu.
 Ex: Basta colar no /player/server-side/server.lua na creative.
 duvidas? me chame no discord https://discord.gg/bKvwhwRRnq
